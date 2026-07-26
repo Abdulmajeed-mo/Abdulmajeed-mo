@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<h2>💻 🌲 🌱</h2>
+<br>
 
 ### Hi there, I'm Abdulmajeed Alhasani 👋
-**Fresh Computer Science Graduate | Frontend & UI/UX Enthusiast**
+**Fresh Computer Science Graduate | Frontend & UI/UX Developer | Strong Backend Foundations**
 * 🌱 Aspiring to grow into a **Full Stack Developer** soon!
 
 <details>
@@ -38,7 +38,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ```csharp
 // My Tech Stack Organized
@@ -46,8 +45,8 @@
 class AbdulmajeedAlhasani : Developer { 
     public Dictionary<string, string[]> TechStack => new() {
         { "Frontend & UI/UX", new[] { "React.js", "JavaScript", "Tailwind CSS", "Material-UI", "UI/UX Design", "React Router", "HTML5", "CSS3" } },
-        { "Backend & APIs", new[] { "C#", "ASP.NET Core MVC", "RESTful APIs", "SQL Server" } },
+        { "Backend Foundations & APIs", new[] { "C#", "ASP.NET Core MVC", "RESTful APIs", "SQL Server" } },
         { "Core CS", new[] { "Software Engineering", "Data Structures & Algorithms" } },
-        { "Tools & Others", new[] { "Git", "GitHub", "VS Code", "Figma", "Linux" } }
+        { "Tools", new[] { "Git", "GitHub", "VS Code", "Figma" } }
     };
 }
