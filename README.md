@@ -4,20 +4,18 @@
 <br>
 
 ### Hi there, I'm Abdulmajeed Alhasani 👋
-**Fresh Computer Science Graduate | Frontend & UI/UX Developer | Strong Backend Foundations**
-* 🌱 Aspiring to grow into a **Full Stack Developer** soon!
-
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=AbdulmajeedAlhasani&style=flat&color=3A6B35&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdulmajeedAlhasani&count_bg=%235C4033&title_bg=%233A6B35&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+**Fresh Computer Science Graduate | Frontend | Software Engineering | UI/UX Developer | Strong Backend Foundations**
 <br>
 </div>
+
+<hr></hr>
+
+- 🚀 **About Me:** I am a fresh Computer Science graduate and Web Developer with a strong passion for frontend development, UI/UX design, and user-centric web applications. Alongside my core expertise in creating responsive interfaces using React.js, JavaScript, Tailwind CSS, Material-UI, and React Router, I have solid foundational knowledge in backend development—working with C#, ASP.NET Core MVC, RESTful APIs, and SQL Server. I am constantly learning and expanding my skills with the ultimate ambition of growing into a Full Stack Developer.
+
+- 🌲 **Let's Connect:**
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajeed-mohammed1) 
+  - [![Email](https://img.shields.io/badge/Email-5C4033?style=flat&logo=microsoft&logoColor=white)](mailto:abmalhasani@outlook.com) 
+  - [![Phone](https://img.shields.io/badge/Phone-3A6B35?style=flat&logo=whatsapp&logoColor=white)](tel:+966533016284) 
 
 <hr></hr>
 
