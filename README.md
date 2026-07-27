@@ -1,9 +1,10 @@
 <div align="center" width="50">
-
-<h1>💻 🌲 🌱</h1>
+<div align="center">
+  <img src="logo.png.png" alt="Abdulmajeed Alhasani Logo" width="700" style="max-width: 100%;">
+</div>
 <br>
+<h2>Hi there, I'm Abdulmajeed Alhasani 👋</h2> <br>
 
-### Hi there, I'm Abdulmajeed Alhasani 👋
 **Fresh Computer Science Graduate | Frontend Developer | UI/UX Designer | Software Engineering | Strong Backend Foundations**
 
 <br>
