@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<h2>💻 🌲 🌱</h2>
+<h1>💻 🌲 🌱</h1>
 <br>
 
 ### Hi there, I'm Abdulmajeed Alhasani 👋
